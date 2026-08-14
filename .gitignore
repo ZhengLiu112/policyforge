@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.cache/
+.pytest_cache/
+.DS_Store
+.ipynb_checkpoints/
+
+# large raw downloads — keep only the small samples committed under data/
+data/raw/
+*.zip
+*.mdb
