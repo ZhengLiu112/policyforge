@@ -1,0 +1,36 @@
+{
+  "article_id": "60274",
+  "title": "Billing and Coding: MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+  "hcpc_codes": [
+    "0118U",
+    "0320U",
+    "0540U",
+    "81479",
+    "81558",
+    "81595",
+    "81599"
+  ],
+  "icd10_covered": [
+    "T86.10",
+    "T86.19",
+    "T86.20",
+    "T86.298",
+    "T86.810",
+    "T86.818",
+    "T86.819",
+    "Z48.21",
+    "Z48.22",
+    "Z48.24",
+    "Z94.0",
+    "Z94.1",
+    "Z94.2"
+  ],
+  "icd10_noncovered": [
+    "N17.0",
+    "N17.1",
+    "N17.2",
+    "N17.8",
+    "N17.9"
+  ],
+  "narrative_chars": 5105
+}

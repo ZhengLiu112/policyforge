@@ -1,0 +1,30 @@
+{
+  "article_id": "57149",
+  "title": "Billing and Coding: Hypoglossal Nerve Stimulation for Treatment of Obstructive Sleep Apnea",
+  "hcpc_codes": [
+    "64582",
+    "64583",
+    "64584"
+  ],
+  "icd10_covered": [
+    "G47.33",
+    "Z68.1",
+    "Z68.20",
+    "Z68.21",
+    "Z68.22",
+    "Z68.23",
+    "Z68.24",
+    "Z68.25",
+    "Z68.26",
+    "Z68.27",
+    "Z68.28",
+    "Z68.29",
+    "Z68.30",
+    "Z68.31",
+    "Z68.32",
+    "Z68.33",
+    "Z68.34"
+  ],
+  "icd10_noncovered": [],
+  "narrative_chars": 2284
+}
