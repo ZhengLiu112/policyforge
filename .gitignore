@@ -11,3 +11,9 @@ __pycache__/
 data/raw/
 *.zip
 *.mdb
+
+# raw data — too large for git, download via DATA_ACQUISITION.md
+data/inbox/
+data/ncci/
+data/policies/
+data/STRUCTURE_REPORT.md
