@@ -17,3 +17,4 @@ data/inbox/
 data/ncci/
 data/policies/
 data/STRUCTURE_REPORT.md
+.env*
